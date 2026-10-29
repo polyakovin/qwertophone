@@ -1,0 +1,5 @@
+Basic Pitch model and weights
+Copyright 2022 Spotify AB
+Source: https://github.com/spotify/basic-pitch-ts
+Distributed from @spotify/basic-pitch version 1.0.1 under Apache-2.0.
+See LICENSE in this directory. Model and weights are unmodified.

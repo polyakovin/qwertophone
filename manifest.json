@@ -1,0 +1,26 @@
+{
+  "short_name": "Qwertophone",
+  "name": "Qwertophone",
+  "description": "Клавиатура компьютера как удобный музыкальный инструмент для живой игры, импровизации и записи мелодий.",
+  "icons": [
+    {
+      "src": "brand/logo-light-64.webp",
+      "sizes": "64x64",
+      "type": "image/webp"
+    },
+    {
+      "src": "brand/logo-light-192.webp",
+      "type": "image/webp",
+      "sizes": "192x192"
+    },
+    {
+      "src": "brand/logo-light-512.webp",
+      "type": "image/webp",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#EEF6F3",
+  "background_color": "#EEF6F3"
+}

@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "production_url": "https://polyakovin.github.io/qwertophone/",
+  "source_repository": "https://github.com/polyakovin/quartet",
+  "source_revision": "dd6af99d48edea2acbcf4349e3dc1ed05c434d8a",
+  "source_state": "working-tree",
+  "build_inputs_sha256": "939bfdb4497d31a5c188c1c8c7f15816cae4120cf45000cb72a6afdefbc88216",
+  "built_at_utc": "2026-10-29T00:46:29.110547+00:00",
+  "validation": {
+    "command": "yarn verify",
+    "node": "16.13.1",
+    "yarn": "1.22.15",
+    "test_suites": 94,
+    "tests": 820
+  }
+}
