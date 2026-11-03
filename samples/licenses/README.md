@@ -12,6 +12,7 @@ the application code, third-party software or generated instrument artwork.
 - Versilian Studios Community Sample Library: `VCSL.txt`.
 - Versilian Studios Chamber Orchestra 2 Community Edition: `VSCO-2-CE.txt`.
 - Meta Open Sound Steel Guitar: `steel-guitar.txt`.
+- Ganjo, SX six-string guitar banjo by itsclipping: `ganjo.txt`.
 
 `electronic-drums.txt` documents an investigated CC0 bank retained in the source
 lock; the final acoustic percussion kit uses VCSL. Source URLs, archive/input

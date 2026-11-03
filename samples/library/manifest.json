@@ -1535,6 +1535,165 @@
       "sha256": "71a17639bd1884e9a1698de6f801770931e848e41b99a35aa6763f5a876663b2",
       "bytes": 8749854,
       "license": "CC0-1.0"
+    },
+    "ganjo": {
+      "kind": "files",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/ganjo/ccff5cd5cd3b513873a48994c07724d9d3c39e1c/",
+      "revision": "ccff5cd5cd3b513873a48994c07724d9d3c39e1c",
+      "license": "CC0-1.0",
+      "page": "https://github.com/sfzinstruments/ganjo",
+      "files": [
+        {
+          "path": "Common/Banjo_Common - D#3.wav",
+          "sha256": "c2448880433c4ef4cf3d0f4de6bfac5dda17e5b7eaeacb28e8c91322efccb186",
+          "bytes": 514132
+        },
+        {
+          "path": "Common/Banjo_Common - E3.wav",
+          "sha256": "f2f72ceca428b717b60af936d0616eec98d3cf1d838ab32f94a03dbf3ef35cb5",
+          "bytes": 263556
+        },
+        {
+          "path": "Common/Banjo_Common - F3.wav",
+          "sha256": "df45b5a48f908271526d811b6618edf9a887b8a32a8893625337b11345fbb6f7",
+          "bytes": 338084
+        },
+        {
+          "path": "Common/Banjo_Common - F#3.wav",
+          "sha256": "47e7795f2100e50fd9a0e2a633070502ebb7659ad911fada600b9c44678cc2dd",
+          "bytes": 708556
+        },
+        {
+          "path": "Common/Banjo_Common - G3.wav",
+          "sha256": "9a2ea983af8e54e970dc8e4577656ff978f3f927f87648d1fcd727b5c6560d2d",
+          "bytes": 320924
+        },
+        {
+          "path": "Common/Banjo_Common - G#3.wav",
+          "sha256": "7ccc5f2c77a46eb12fa49424108a45f4e7302cb11d97b25d172e725e27141124",
+          "bytes": 434332
+        },
+        {
+          "path": "Common/Banjo_Common - A3.wav",
+          "sha256": "4bf313ada6ac3dc5c447e2f8cc41f609c89147e360e24dba81b20b594c86ad25",
+          "bytes": 441572
+        },
+        {
+          "path": "Common/Banjo_Common - A#3.wav",
+          "sha256": "7060b2e293692c1128b7e788410f145610aeaba3bf079924b549fc59ebfe8c18",
+          "bytes": 378460
+        },
+        {
+          "path": "Common/Banjo_Common - B3.wav",
+          "sha256": "fddf1c9e1794a3582181976d83ec8ada29dae9ba08676e4e3553a83861df9c3e",
+          "bytes": 381100
+        },
+        {
+          "path": "Common/Banjo_Common - C#4.wav",
+          "sha256": "070cd8c909036d6dd48bdabeabb832ed8c640dfc10eab67f19a6d845e1613ec0",
+          "bytes": 420500
+        },
+        {
+          "path": "Common/Banjo_Common - D4.wav",
+          "sha256": "6a1dc3895786eb7a2ddd41664e28577bf6334f43de2ebd11f917b125dc89355e",
+          "bytes": 460324
+        },
+        {
+          "path": "Common/Banjo_Common - D#4.wav",
+          "sha256": "e7bb5ce87d2a74b7e7d5cd5e213beb22e31c5a3db73e1d7f153a9ecff9f0e293",
+          "bytes": 442492
+        },
+        {
+          "path": "Common/Banjo_Common - E4.wav",
+          "sha256": "c5d755bd77593b58f1b0eb7c4eb6a73ffa3a1015ff6b1a35cd99ae4b99f60c94",
+          "bytes": 305716
+        },
+        {
+          "path": "Common/Banjo_Common - F4.wav",
+          "sha256": "6a6923e3fa830210b9ebe109c85b9671a387e49576c72725d2a985d0059a55f6",
+          "bytes": 411876
+        },
+        {
+          "path": "Common/Banjo_Common - F#4_2.wav",
+          "sha256": "25eec6703d4727a0781f16a857b1b6b50e9af4f51e893d3cb9691218399fcdd7",
+          "bytes": 577468
+        },
+        {
+          "path": "Common/Banjo_Common - G4.wav",
+          "sha256": "548f5ad1d45cd4243cee1acc511ffe258db990eebe52f2bfc41fa1e8438a18cd",
+          "bytes": 341316
+        },
+        {
+          "path": "Common/Banjo_Common - G#4.wav",
+          "sha256": "f9854ef58ca223f7b7e978af70c2ac2475d72e1ddf074f8f2cdddbbe6a1c7b3b",
+          "bytes": 339284
+        },
+        {
+          "path": "Common/Banjo_Common - A4.wav",
+          "sha256": "fd31432fb20652fe9a21516ff0a552c2c32752e36a0e3d33b83b05a512f09de4",
+          "bytes": 233364
+        },
+        {
+          "path": "Common/Banjo_Common - A#4.wav",
+          "sha256": "58eb20472e647f731ce77167a1dfb7eb1f2a207fbb7b7e6413f7d06f5f66b641",
+          "bytes": 329396
+        },
+        {
+          "path": "Common/Banjo_Common - B4.wav",
+          "sha256": "61888e9e14dbd4a678e118e094393bb419b8e9dbd8e766c95f72e8be7d149f2b",
+          "bytes": 229996
+        },
+        {
+          "path": "Common/Banjo_Common - C5.wav",
+          "sha256": "3d877d95e205f06eb8b81e7d1bef0158a61417e13e140ed9e7c0781018fbc795",
+          "bytes": 172580
+        },
+        {
+          "path": "Common/Banjo_Common - C#5.wav",
+          "sha256": "22a2168943ac0224b9a27f2574cb7825c1d2d6795a57e666f3eeaa6bafe8e321",
+          "bytes": 249636
+        },
+        {
+          "path": "Common/Banjo_Common - D#5_2.wav",
+          "sha256": "c3a5b0dc0d8c373afb5bd4c4c4690da8734cb4a998b71a43f94a1407c98bbdfe",
+          "bytes": 621460
+        },
+        {
+          "path": "Common/Banjo_Common - G5.wav",
+          "sha256": "0d10f756de3e96f692a485719b434c65626608bdd8de0a2432adec094eb8bbe2",
+          "bytes": 206300
+        },
+        {
+          "path": "Common/Banjo_Common - G#5.wav",
+          "sha256": "766d45c05afb1fcbac3ca899384eaa852ee0b8a58fe99dfd8dedcdabdca76f15",
+          "bytes": 229268
+        },
+        {
+          "path": "Common/Banjo_Common - A#5.wav",
+          "sha256": "2af149184e943a66b0913950946170db0ce7af0d8f9efafdbbfd820b2bd3ba93",
+          "bytes": 534948
+        },
+        {
+          "path": "Common/Banjo_Common - B5.wav",
+          "sha256": "45f1f6755c1d892786bde903c789b0051ffafc167dbf282cf1b87eb2a12e76ae",
+          "bytes": 317772
+        },
+        {
+          "path": "ganjo.sfz",
+          "sha256": "9717cacbd1f12c55233b5edc85d10fad02229b231b7bd3188c4e7bf5227f3214",
+          "bytes": 6394
+        },
+        {
+          "path": "LICENSE.md",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+          "bytes": 7048
+        },
+        {
+          "path": "README.md",
+          "sha256": "d62ac7d28ca7db3613902c4ba641133826dcfa0ec947a5347b2c5839fd3daf34",
+          "bytes": 116
+        }
+      ]
     }
   },
   "banks": {
@@ -6335,6 +6494,174 @@
           "sha256": "8f39df500d7a673e9f5bfa68c5453dd66b22bfcc9c94afafe22dbd94b9ce1cdd"
         }
       ]
+    },
+    "banjo": {
+      "source": "ganjo",
+      "regions": [
+        {
+          "path": "Common/Banjo_Common - D#3.wav",
+          "root": 39,
+          "tune": -26.5,
+          "sha256": "c2448880433c4ef4cf3d0f4de6bfac5dda17e5b7eaeacb28e8c91322efccb186"
+        },
+        {
+          "path": "Common/Banjo_Common - E3.wav",
+          "root": 40,
+          "tune": -43.2,
+          "sha256": "f2f72ceca428b717b60af936d0616eec98d3cf1d838ab32f94a03dbf3ef35cb5"
+        },
+        {
+          "path": "Common/Banjo_Common - F3.wav",
+          "root": 41,
+          "tune": -40.2,
+          "sha256": "df45b5a48f908271526d811b6618edf9a887b8a32a8893625337b11345fbb6f7"
+        },
+        {
+          "path": "Common/Banjo_Common - F#3.wav",
+          "root": 42,
+          "tune": -44.7,
+          "sha256": "47e7795f2100e50fd9a0e2a633070502ebb7659ad911fada600b9c44678cc2dd"
+        },
+        {
+          "path": "Common/Banjo_Common - G3.wav",
+          "root": 43,
+          "tune": -39.1,
+          "sha256": "9a2ea983af8e54e970dc8e4577656ff978f3f927f87648d1fcd727b5c6560d2d"
+        },
+        {
+          "path": "Common/Banjo_Common - G#3.wav",
+          "root": 44,
+          "tune": -34.2,
+          "sha256": "7ccc5f2c77a46eb12fa49424108a45f4e7302cb11d97b25d172e725e27141124"
+        },
+        {
+          "path": "Common/Banjo_Common - A3.wav",
+          "root": 45,
+          "tune": -47.4,
+          "sha256": "4bf313ada6ac3dc5c447e2f8cc41f609c89147e360e24dba81b20b594c86ad25"
+        },
+        {
+          "path": "Common/Banjo_Common - A#3.wav",
+          "root": 46,
+          "tune": -38.9,
+          "sha256": "7060b2e293692c1128b7e788410f145610aeaba3bf079924b549fc59ebfe8c18"
+        },
+        {
+          "path": "Common/Banjo_Common - B3.wav",
+          "root": 47,
+          "tune": -45.5,
+          "sha256": "fddf1c9e1794a3582181976d83ec8ada29dae9ba08676e4e3553a83861df9c3e"
+        },
+        {
+          "path": "Common/Banjo_Common - C#4.wav",
+          "root": 49,
+          "tune": -40.2,
+          "sha256": "070cd8c909036d6dd48bdabeabb832ed8c640dfc10eab67f19a6d845e1613ec0"
+        },
+        {
+          "path": "Common/Banjo_Common - D4.wav",
+          "root": 50,
+          "tune": -49.3,
+          "sha256": "6a1dc3895786eb7a2ddd41664e28577bf6334f43de2ebd11f917b125dc89355e"
+        },
+        {
+          "path": "Common/Banjo_Common - D#4.wav",
+          "root": 51,
+          "tune": -48.5,
+          "sha256": "e7bb5ce87d2a74b7e7d5cd5e213beb22e31c5a3db73e1d7f153a9ecff9f0e293"
+        },
+        {
+          "path": "Common/Banjo_Common - E4.wav",
+          "root": 52,
+          "tune": -43.3,
+          "sha256": "c5d755bd77593b58f1b0eb7c4eb6a73ffa3a1015ff6b1a35cd99ae4b99f60c94"
+        },
+        {
+          "path": "Common/Banjo_Common - F4.wav",
+          "root": 53,
+          "tune": -36.4,
+          "sha256": "6a6923e3fa830210b9ebe109c85b9671a387e49576c72725d2a985d0059a55f6"
+        },
+        {
+          "path": "Common/Banjo_Common - F#4_2.wav",
+          "root": 54,
+          "tune": -44.6,
+          "sha256": "25eec6703d4727a0781f16a857b1b6b50e9af4f51e893d3cb9691218399fcdd7"
+        },
+        {
+          "path": "Common/Banjo_Common - G4.wav",
+          "root": 55,
+          "tune": -56.2,
+          "sha256": "548f5ad1d45cd4243cee1acc511ffe258db990eebe52f2bfc41fa1e8438a18cd"
+        },
+        {
+          "path": "Common/Banjo_Common - G#4.wav",
+          "root": 56,
+          "tune": -51.8,
+          "sha256": "f9854ef58ca223f7b7e978af70c2ac2475d72e1ddf074f8f2cdddbbe6a1c7b3b"
+        },
+        {
+          "path": "Common/Banjo_Common - A4.wav",
+          "root": 57,
+          "tune": -14.8,
+          "sha256": "fd31432fb20652fe9a21516ff0a552c2c32752e36a0e3d33b83b05a512f09de4"
+        },
+        {
+          "path": "Common/Banjo_Common - A#4.wav",
+          "root": 58,
+          "tune": -15.8,
+          "sha256": "58eb20472e647f731ce77167a1dfb7eb1f2a207fbb7b7e6413f7d06f5f66b641"
+        },
+        {
+          "path": "Common/Banjo_Common - B4.wav",
+          "root": 59,
+          "tune": -35.6,
+          "sha256": "61888e9e14dbd4a678e118e094393bb419b8e9dbd8e766c95f72e8be7d149f2b"
+        },
+        {
+          "path": "Common/Banjo_Common - C5.wav",
+          "root": 60,
+          "tune": -35.6,
+          "sha256": "3d877d95e205f06eb8b81e7d1bef0158a61417e13e140ed9e7c0781018fbc795"
+        },
+        {
+          "path": "Common/Banjo_Common - C#5.wav",
+          "root": 61,
+          "tune": -39.8,
+          "sha256": "22a2168943ac0224b9a27f2574cb7825c1d2d6795a57e666f3eeaa6bafe8e321"
+        },
+        {
+          "path": "Common/Banjo_Common - D#5_2.wav",
+          "root": 63,
+          "tune": -4.7,
+          "sha256": "c3a5b0dc0d8c373afb5bd4c4c4690da8734cb4a998b71a43f94a1407c98bbdfe"
+        },
+        {
+          "path": "Common/Banjo_Common - G5.wav",
+          "root": 67,
+          "tune": -6.4,
+          "sha256": "0d10f756de3e96f692a485719b434c65626608bdd8de0a2432adec094eb8bbe2"
+        },
+        {
+          "path": "Common/Banjo_Common - G#5.wav",
+          "root": 68,
+          "tune": -28.1,
+          "sha256": "766d45c05afb1fcbac3ca899384eaa852ee0b8a58fe99dfd8dedcdabdca76f15"
+        },
+        {
+          "path": "Common/Banjo_Common - A#5.wav",
+          "root": 70,
+          "tune": -45.8,
+          "sha256": "2af149184e943a66b0913950946170db0ce7af0d8f9efafdbbfd820b2bd3ba93"
+        },
+        {
+          "path": "Common/Banjo_Common - B5.wav",
+          "root": 71,
+          "tune": -11.6,
+          "sha256": "45f1f6755c1d892786bde903c789b0051ffafc167dbf282cf1b87eb2a12e76ae"
+        }
+      ],
+      "sfz": "ganjo.sfz"
     }
   },
   "instruments": {
@@ -12345,6 +12672,163 @@
           "sha256": "8e9112cac1abf29ae3c4384f19f1caaadb380a61dca2acf7d7983f42e9bdc1b5",
           "label": "Кастаньеты: удар 16",
           "volumeDb": 0.0
+        }
+      ]
+    },
+    "banjo": {
+      "bank": "banjo",
+      "source": "ganjo",
+      "naturalRange": [
+        39,
+        71
+      ],
+      "slots": [
+        {
+          "midi": 24,
+          "input": "Common/Banjo_Common - D#3.wav",
+          "inputRoot": 39,
+          "tuneCents": -26.5,
+          "sha256": "c2448880433c4ef4cf3d0f4de6bfac5dda17e5b7eaeacb28e8c91322efccb186"
+        },
+        {
+          "midi": 28,
+          "input": "Common/Banjo_Common - D#3.wav",
+          "inputRoot": 39,
+          "tuneCents": -26.5,
+          "sha256": "c2448880433c4ef4cf3d0f4de6bfac5dda17e5b7eaeacb28e8c91322efccb186"
+        },
+        {
+          "midi": 32,
+          "input": "Common/Banjo_Common - D#3.wav",
+          "inputRoot": 39,
+          "tuneCents": -26.5,
+          "sha256": "c2448880433c4ef4cf3d0f4de6bfac5dda17e5b7eaeacb28e8c91322efccb186"
+        },
+        {
+          "midi": 36,
+          "input": "Common/Banjo_Common - D#3.wav",
+          "inputRoot": 39,
+          "tuneCents": -26.5,
+          "sha256": "c2448880433c4ef4cf3d0f4de6bfac5dda17e5b7eaeacb28e8c91322efccb186"
+        },
+        {
+          "midi": 40,
+          "input": "Common/Banjo_Common - E3.wav",
+          "inputRoot": 40,
+          "tuneCents": -43.2,
+          "sha256": "f2f72ceca428b717b60af936d0616eec98d3cf1d838ab32f94a03dbf3ef35cb5"
+        },
+        {
+          "midi": 44,
+          "input": "Common/Banjo_Common - G#3.wav",
+          "inputRoot": 44,
+          "tuneCents": -34.2,
+          "sha256": "7ccc5f2c77a46eb12fa49424108a45f4e7302cb11d97b25d172e725e27141124"
+        },
+        {
+          "midi": 48,
+          "input": "Common/Banjo_Common - B3.wav",
+          "inputRoot": 47,
+          "tuneCents": -45.5,
+          "sha256": "fddf1c9e1794a3582181976d83ec8ada29dae9ba08676e4e3553a83861df9c3e"
+        },
+        {
+          "midi": 52,
+          "input": "Common/Banjo_Common - E4.wav",
+          "inputRoot": 52,
+          "tuneCents": -43.3,
+          "sha256": "c5d755bd77593b58f1b0eb7c4eb6a73ffa3a1015ff6b1a35cd99ae4b99f60c94"
+        },
+        {
+          "midi": 56,
+          "input": "Common/Banjo_Common - G#4.wav",
+          "inputRoot": 56,
+          "tuneCents": -51.8,
+          "sha256": "f9854ef58ca223f7b7e978af70c2ac2475d72e1ddf074f8f2cdddbbe6a1c7b3b"
+        },
+        {
+          "midi": 60,
+          "input": "Common/Banjo_Common - C5.wav",
+          "inputRoot": 60,
+          "tuneCents": -35.6,
+          "sha256": "3d877d95e205f06eb8b81e7d1bef0158a61417e13e140ed9e7c0781018fbc795"
+        },
+        {
+          "midi": 64,
+          "input": "Common/Banjo_Common - D#5_2.wav",
+          "inputRoot": 63,
+          "tuneCents": -4.7,
+          "sha256": "c3a5b0dc0d8c373afb5bd4c4c4690da8734cb4a998b71a43f94a1407c98bbdfe"
+        },
+        {
+          "midi": 68,
+          "input": "Common/Banjo_Common - G#5.wav",
+          "inputRoot": 68,
+          "tuneCents": -28.1,
+          "sha256": "766d45c05afb1fcbac3ca899384eaa852ee0b8a58fe99dfd8dedcdabdca76f15"
+        },
+        {
+          "midi": 72,
+          "input": "Common/Banjo_Common - B5.wav",
+          "inputRoot": 71,
+          "tuneCents": -11.6,
+          "sha256": "45f1f6755c1d892786bde903c789b0051ffafc167dbf282cf1b87eb2a12e76ae"
+        },
+        {
+          "midi": 76,
+          "input": "Common/Banjo_Common - B5.wav",
+          "inputRoot": 71,
+          "tuneCents": -11.6,
+          "sha256": "45f1f6755c1d892786bde903c789b0051ffafc167dbf282cf1b87eb2a12e76ae"
+        },
+        {
+          "midi": 80,
+          "input": "Common/Banjo_Common - B5.wav",
+          "inputRoot": 71,
+          "tuneCents": -11.6,
+          "sha256": "45f1f6755c1d892786bde903c789b0051ffafc167dbf282cf1b87eb2a12e76ae"
+        },
+        {
+          "midi": 84,
+          "input": "Common/Banjo_Common - B5.wav",
+          "inputRoot": 71,
+          "tuneCents": -11.6,
+          "sha256": "45f1f6755c1d892786bde903c789b0051ffafc167dbf282cf1b87eb2a12e76ae"
+        },
+        {
+          "midi": 88,
+          "input": "Common/Banjo_Common - B5.wav",
+          "inputRoot": 71,
+          "tuneCents": -11.6,
+          "sha256": "45f1f6755c1d892786bde903c789b0051ffafc167dbf282cf1b87eb2a12e76ae"
+        },
+        {
+          "midi": 92,
+          "input": "Common/Banjo_Common - B5.wav",
+          "inputRoot": 71,
+          "tuneCents": -11.6,
+          "sha256": "45f1f6755c1d892786bde903c789b0051ffafc167dbf282cf1b87eb2a12e76ae"
+        },
+        {
+          "midi": 96,
+          "input": "Common/Banjo_Common - B5.wav",
+          "inputRoot": 71,
+          "tuneCents": -11.6,
+          "sha256": "45f1f6755c1d892786bde903c789b0051ffafc167dbf282cf1b87eb2a12e76ae"
+        },
+        {
+          "midi": 100,
+          "input": "Common/Banjo_Common - B5.wav",
+          "inputRoot": 71,
+          "tuneCents": -11.6,
+          "sha256": "45f1f6755c1d892786bde903c789b0051ffafc167dbf282cf1b87eb2a12e76ae"
+        },
+        {
+          "midi": 104,
+          "input": "Common/Banjo_Common - B5.wav",
+          "inputRoot": 71,
+          "tuneCents": -11.6,
+          "sha256": "45f1f6755c1d892786bde903c789b0051ffafc167dbf282cf1b87eb2a12e76ae"
         }
       ]
     }
@@ -18494,6 +18978,101 @@
           "label": "Треугольник"
         }
       }
+    },
+    {
+      "file": "banjo.mp3",
+      "sha256": "14400fb5dd92a4d57b9900103c7574cce0bda8080048708b31745b5047091da9",
+      "bytes": 390959,
+      "instrument": "banjo",
+      "filter": null,
+      "octaveLayer": false,
+      "durationSeconds": 84.0,
+      "layout": [
+        [
+          0,
+          4
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          12,
+          4
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          20,
+          4
+        ],
+        [
+          24,
+          4
+        ],
+        [
+          28,
+          4
+        ],
+        [
+          32,
+          4
+        ],
+        [
+          36,
+          4
+        ],
+        [
+          40,
+          4
+        ],
+        [
+          44,
+          4
+        ],
+        [
+          48,
+          4
+        ],
+        [
+          52,
+          4
+        ],
+        [
+          56,
+          4
+        ],
+        [
+          60,
+          4
+        ],
+        [
+          64,
+          4
+        ],
+        [
+          68,
+          4
+        ],
+        [
+          72,
+          4
+        ],
+        [
+          76,
+          4
+        ],
+        [
+          80,
+          4
+        ]
+      ]
     }
   ],
   "profiles": {
@@ -18835,6 +19414,11 @@
       "instrument": "castanets",
       "file": "castanets",
       "release": 0.14
+    },
+    "banjo": {
+      "instrument": "banjo",
+      "file": "banjo",
+      "release": 0.25
     }
   },
   "drumPositions": [
@@ -18886,7 +19470,7 @@
     80,
     81
   ],
-  "runtimeMapSha256": "e33616b36c9e8c1c1a7ee4f24d9923852b0e9d97a20d9da627241e25f2d2a92d",
+  "runtimeMapSha256": "f75212bce6b4c545b25a409e832d0039d13f25579f5055cb0b71336a8f06e46f",
   "tools": {
     "ffmpeg": "ffmpeg version 8.1.2 Copyright (c) 2000-2026 the FFmpeg developers",
     "numpy": "2.2.6"
