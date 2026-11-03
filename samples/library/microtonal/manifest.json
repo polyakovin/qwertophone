@@ -1,0 +1,39 @@
+{
+  "license": "CC-BY-4.0",
+  "author": "xserra",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "sources": {
+    "oud": {
+      "title": "oud.wav",
+      "page": "https://freesound.org/people/xserra/sounds/115226/",
+      "url": "https://cdn.freesound.org/previews/115/115226_43-hq.mp3",
+      "sha256": "0f6be0510d90a577d018d9c37416c31906152735f90ddc6f69fea9461b7d4598",
+      "start": 27.64,
+      "end": 27.89,
+      "frequency": 231.7,
+      "sustained": false
+    },
+    "ney": {
+      "title": "Ney.wav",
+      "page": "https://freesound.org/people/xserra/sounds/115222/",
+      "url": "https://cdn.freesound.org/previews/115/115222_43-hq.mp3",
+      "sha256": "0d97c13ae501cd1e1a2a691260a487089f9649d16b41fbf904c2396b5be0e2df",
+      "start": 0.68,
+      "end": 2.8,
+      "frequency": 926.0,
+      "sustained": true
+    }
+  },
+  "outputs": {
+    "oud": {
+      "sha256": "84c6e9863b938f1ee1a56f1b84db5eb71948c84c6d8503ccc98dd9a724095db9",
+      "frames": 3704400
+    },
+    "ney": {
+      "sha256": "1a702a9a41b49e66c5160a29e995e9b67307012b9eacbcbc0989eb983dec56a3",
+      "frames": 3704400
+    }
+  },
+  "runtimeMapSha256": "9cdc08f189c35d6fb5bafb1374e89c5c60e8ea2380bbf5c66da2314387dff8e6",
+  "preparation": "Isolated notes, high-pass 80 Hz, fade, normalization, pitch calibration and C/E/G# slots. Ney sustain loops. HQ MP3 previews used as source."
+}

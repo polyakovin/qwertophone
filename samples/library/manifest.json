@@ -1694,6 +1694,80 @@
           "bytes": 116
         }
       ]
+    },
+    "ferrosintesis-mandolin": {
+      "kind": "files",
+      "url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/",
+      "revision": "2f26075ea93291535a869f5d356d2e3d934c7868",
+      "license": "CC0-1.0",
+      "page": "https://github.com/0x4D44/ferrosintesis/tree/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin",
+      "files": [
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_G3_rr1.wav",
+          "sha256": "70a0b59f4e77c0dd34098ed7249bccf9505249982b1d20372a6ab362561a23f8",
+          "bytes": 176444
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_C4_rr1.wav",
+          "sha256": "6c22cb254877fc51d2e58f61fe89aeac1d36e4c8abe27f081f54cf1afbf0ca20",
+          "bytes": 176444
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_D4_rr1.wav",
+          "sha256": "e0e74cb38a592ed73741fd2179dda36a24a414baeaacdbf92478025b9a943633",
+          "bytes": 176444
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_G4_rr1.wav",
+          "sha256": "38cca1aade1f65a4d51cef311d37a7a17f91db26284fdadbf88d97b0c6c0bf92",
+          "bytes": 176444
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_A4_rr1.wav",
+          "sha256": "f0b0fa3792b6c1544f7f898888fbd88b23e0c14c879520bab926912a2d62d335",
+          "bytes": 176444
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_D5_rr1.wav",
+          "sha256": "304ee19e13b212a49386373974d389ca6052046288eb0979ec056b0feab668b4",
+          "bytes": 176444
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_E5_rr1.wav",
+          "sha256": "c585766f0a455ecda86cfd896a400010f06146562840a06ddd2d478216c33e5a",
+          "bytes": 176444
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_A5_rr1.wav",
+          "sha256": "a192f705e714f53bd153a0868b6b314fe0c123584db411212bb8f6871da8d8e7",
+          "bytes": 176444
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_D6_rr1.wav",
+          "sha256": "c29ef8ded7b804028582395ee79e913b1927454648b464eab5e824125db49ecf",
+          "bytes": 176444
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_E6_rr1.wav",
+          "sha256": "d7acef320dcc270eba81d4c96f4039e8bb905abe35abe34d9de4010148ccf0da",
+          "bytes": 176444
+        },
+        {
+          "path": "crates/ferrosintesis-samples-mandolin/README.md",
+          "sha256": "9e64d368d480e5e683eb5151f9b9a7a758d9878cde1b9e8ec0b8254e94a45b57",
+          "bytes": 1154
+        },
+        {
+          "path": "crates/ferrosintesis-samples-mandolin/PROVENANCE.md",
+          "sha256": "0f2f08aac2ce4922b375ba45a3d5f8f2bc706297741687d41ca62d463d66418e",
+          "bytes": 9621
+        },
+        {
+          "path": "crates/ferrosintesis-samples-mandolin/LICENSE-CC0",
+          "sha256": "c5d5a1585b99b0eda4852fe53895a7752c97894320fdebce08138821bec38073",
+          "bytes": 7012
+        }
+      ]
     }
   },
   "banks": {
@@ -6662,6 +6736,71 @@
         }
       ],
       "sfz": "ganjo.sfz"
+    },
+    "mandolin": {
+      "source": "ferrosintesis-mandolin",
+      "regions": [
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_G3_rr1.wav",
+          "root": 55,
+          "tune": 6.3,
+          "sha256": "70a0b59f4e77c0dd34098ed7249bccf9505249982b1d20372a6ab362561a23f8"
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_C4_rr1.wav",
+          "root": 60,
+          "tune": -26.6,
+          "sha256": "6c22cb254877fc51d2e58f61fe89aeac1d36e4c8abe27f081f54cf1afbf0ca20"
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_D4_rr1.wav",
+          "root": 62,
+          "tune": 6.8,
+          "sha256": "e0e74cb38a592ed73741fd2179dda36a24a414baeaacdbf92478025b9a943633"
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_G4_rr1.wav",
+          "root": 67,
+          "tune": -9.6,
+          "sha256": "38cca1aade1f65a4d51cef311d37a7a17f91db26284fdadbf88d97b0c6c0bf92"
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_A4_rr1.wav",
+          "root": 69,
+          "tune": 8.6,
+          "sha256": "f0b0fa3792b6c1544f7f898888fbd88b23e0c14c879520bab926912a2d62d335"
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_D5_rr1.wav",
+          "root": 74,
+          "tune": -15.3,
+          "sha256": "304ee19e13b212a49386373974d389ca6052046288eb0979ec056b0feab668b4"
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_E5_rr1.wav",
+          "root": 76,
+          "tune": 5.0,
+          "sha256": "c585766f0a455ecda86cfd896a400010f06146562840a06ddd2d478216c33e5a"
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_A5_rr1.wav",
+          "root": 81,
+          "tune": -7.8,
+          "sha256": "a192f705e714f53bd153a0868b6b314fe0c123584db411212bb8f6871da8d8e7"
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_D6_rr1.wav",
+          "root": 86,
+          "tune": -10.8,
+          "sha256": "c29ef8ded7b804028582395ee79e913b1927454648b464eab5e824125db49ecf"
+        },
+        {
+          "path": "tools/ferrosintesis-samples/mandolin-src/mandolin_E6_rr1.wav",
+          "root": 88,
+          "tune": -13.3,
+          "sha256": "d7acef320dcc270eba81d4c96f4039e8bb905abe35abe34d9de4010148ccf0da"
+        }
+      ]
     }
   },
   "instruments": {
@@ -12829,6 +12968,163 @@
           "inputRoot": 71,
           "tuneCents": -11.6,
           "sha256": "45f1f6755c1d892786bde903c789b0051ffafc167dbf282cf1b87eb2a12e76ae"
+        }
+      ]
+    },
+    "mandolin": {
+      "bank": "mandolin",
+      "source": "ferrosintesis-mandolin",
+      "naturalRange": [
+        55,
+        88
+      ],
+      "slots": [
+        {
+          "midi": 24,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_G3_rr1.wav",
+          "inputRoot": 55,
+          "tuneCents": 6.3,
+          "sha256": "70a0b59f4e77c0dd34098ed7249bccf9505249982b1d20372a6ab362561a23f8"
+        },
+        {
+          "midi": 28,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_G3_rr1.wav",
+          "inputRoot": 55,
+          "tuneCents": 6.3,
+          "sha256": "70a0b59f4e77c0dd34098ed7249bccf9505249982b1d20372a6ab362561a23f8"
+        },
+        {
+          "midi": 32,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_G3_rr1.wav",
+          "inputRoot": 55,
+          "tuneCents": 6.3,
+          "sha256": "70a0b59f4e77c0dd34098ed7249bccf9505249982b1d20372a6ab362561a23f8"
+        },
+        {
+          "midi": 36,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_G3_rr1.wav",
+          "inputRoot": 55,
+          "tuneCents": 6.3,
+          "sha256": "70a0b59f4e77c0dd34098ed7249bccf9505249982b1d20372a6ab362561a23f8"
+        },
+        {
+          "midi": 40,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_G3_rr1.wav",
+          "inputRoot": 55,
+          "tuneCents": 6.3,
+          "sha256": "70a0b59f4e77c0dd34098ed7249bccf9505249982b1d20372a6ab362561a23f8"
+        },
+        {
+          "midi": 44,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_G3_rr1.wav",
+          "inputRoot": 55,
+          "tuneCents": 6.3,
+          "sha256": "70a0b59f4e77c0dd34098ed7249bccf9505249982b1d20372a6ab362561a23f8"
+        },
+        {
+          "midi": 48,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_G3_rr1.wav",
+          "inputRoot": 55,
+          "tuneCents": 6.3,
+          "sha256": "70a0b59f4e77c0dd34098ed7249bccf9505249982b1d20372a6ab362561a23f8"
+        },
+        {
+          "midi": 52,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_G3_rr1.wav",
+          "inputRoot": 55,
+          "tuneCents": 6.3,
+          "sha256": "70a0b59f4e77c0dd34098ed7249bccf9505249982b1d20372a6ab362561a23f8"
+        },
+        {
+          "midi": 56,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_G3_rr1.wav",
+          "inputRoot": 55,
+          "tuneCents": 6.3,
+          "sha256": "70a0b59f4e77c0dd34098ed7249bccf9505249982b1d20372a6ab362561a23f8"
+        },
+        {
+          "midi": 60,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_C4_rr1.wav",
+          "inputRoot": 60,
+          "tuneCents": -26.6,
+          "sha256": "6c22cb254877fc51d2e58f61fe89aeac1d36e4c8abe27f081f54cf1afbf0ca20"
+        },
+        {
+          "midi": 64,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_D4_rr1.wav",
+          "inputRoot": 62,
+          "tuneCents": 6.8,
+          "sha256": "e0e74cb38a592ed73741fd2179dda36a24a414baeaacdbf92478025b9a943633"
+        },
+        {
+          "midi": 68,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_G4_rr1.wav",
+          "inputRoot": 67,
+          "tuneCents": -9.6,
+          "sha256": "38cca1aade1f65a4d51cef311d37a7a17f91db26284fdadbf88d97b0c6c0bf92"
+        },
+        {
+          "midi": 72,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_D5_rr1.wav",
+          "inputRoot": 74,
+          "tuneCents": -15.3,
+          "sha256": "304ee19e13b212a49386373974d389ca6052046288eb0979ec056b0feab668b4"
+        },
+        {
+          "midi": 76,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_E5_rr1.wav",
+          "inputRoot": 76,
+          "tuneCents": 5.0,
+          "sha256": "c585766f0a455ecda86cfd896a400010f06146562840a06ddd2d478216c33e5a"
+        },
+        {
+          "midi": 80,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_A5_rr1.wav",
+          "inputRoot": 81,
+          "tuneCents": -7.8,
+          "sha256": "a192f705e714f53bd153a0868b6b314fe0c123584db411212bb8f6871da8d8e7"
+        },
+        {
+          "midi": 84,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_D6_rr1.wav",
+          "inputRoot": 86,
+          "tuneCents": -10.8,
+          "sha256": "c29ef8ded7b804028582395ee79e913b1927454648b464eab5e824125db49ecf"
+        },
+        {
+          "midi": 88,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_E6_rr1.wav",
+          "inputRoot": 88,
+          "tuneCents": -13.3,
+          "sha256": "d7acef320dcc270eba81d4c96f4039e8bb905abe35abe34d9de4010148ccf0da"
+        },
+        {
+          "midi": 92,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_E6_rr1.wav",
+          "inputRoot": 88,
+          "tuneCents": -13.3,
+          "sha256": "d7acef320dcc270eba81d4c96f4039e8bb905abe35abe34d9de4010148ccf0da"
+        },
+        {
+          "midi": 96,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_E6_rr1.wav",
+          "inputRoot": 88,
+          "tuneCents": -13.3,
+          "sha256": "d7acef320dcc270eba81d4c96f4039e8bb905abe35abe34d9de4010148ccf0da"
+        },
+        {
+          "midi": 100,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_E6_rr1.wav",
+          "inputRoot": 88,
+          "tuneCents": -13.3,
+          "sha256": "d7acef320dcc270eba81d4c96f4039e8bb905abe35abe34d9de4010148ccf0da"
+        },
+        {
+          "midi": 104,
+          "input": "tools/ferrosintesis-samples/mandolin-src/mandolin_E6_rr1.wav",
+          "inputRoot": 88,
+          "tuneCents": -13.3,
+          "sha256": "d7acef320dcc270eba81d4c96f4039e8bb905abe35abe34d9de4010148ccf0da"
         }
       ]
     }
@@ -19073,6 +19369,101 @@
           4
         ]
       ]
+    },
+    {
+      "file": "mandolin.mp3",
+      "sha256": "7b0c208af71755a1955ca7339c45eae5a4f68a05e7ef9ece487021c3c61e5319",
+      "bytes": 518139,
+      "instrument": "mandolin",
+      "filter": null,
+      "octaveLayer": false,
+      "durationSeconds": 84.0,
+      "layout": [
+        [
+          0,
+          4
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          12,
+          4
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          20,
+          4
+        ],
+        [
+          24,
+          4
+        ],
+        [
+          28,
+          4
+        ],
+        [
+          32,
+          4
+        ],
+        [
+          36,
+          4
+        ],
+        [
+          40,
+          4
+        ],
+        [
+          44,
+          4
+        ],
+        [
+          48,
+          4
+        ],
+        [
+          52,
+          4
+        ],
+        [
+          56,
+          4
+        ],
+        [
+          60,
+          4
+        ],
+        [
+          64,
+          4
+        ],
+        [
+          68,
+          4
+        ],
+        [
+          72,
+          4
+        ],
+        [
+          76,
+          4
+        ],
+        [
+          80,
+          4
+        ]
+      ]
     }
   ],
   "profiles": {
@@ -19419,6 +19810,11 @@
       "instrument": "banjo",
       "file": "banjo",
       "release": 0.25
+    },
+    "mandolin": {
+      "instrument": "mandolin",
+      "file": "mandolin",
+      "release": 0.18
     }
   },
   "drumPositions": [
@@ -19470,7 +19866,7 @@
     80,
     81
   ],
-  "runtimeMapSha256": "f75212bce6b4c545b25a409e832d0039d13f25579f5055cb0b71336a8f06e46f",
+  "runtimeMapSha256": "5a2a0ebd0a4676425703f9bd57ec2806917b89953ed6f0d22c5f39b3ff460f73",
   "tools": {
     "ffmpeg": "ffmpeg version 8.1.2 Copyright (c) 2000-2026 the FFmpeg developers",
     "numpy": "2.2.6"

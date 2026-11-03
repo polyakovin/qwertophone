@@ -13,6 +13,7 @@ the application code, third-party software or generated instrument artwork.
 - Versilian Studios Chamber Orchestra 2 Community Edition: `VSCO-2-CE.txt`.
 - Meta Open Sound Steel Guitar: `steel-guitar.txt`.
 - Ganjo, SX six-string guitar banjo by itsclipping: `ganjo.txt`.
+- Mandolin recorded by 0x4D44 (ferrosintesis): `mandolin.txt`.
 
 `electronic-drums.txt` documents an investigated CC0 bank retained in the source
 lock; the final acoustic percussion kit uses VCSL. Source URLs, archive/input
@@ -21,3 +22,5 @@ are in `../library/manifest.json`. Copies of the notices are supplied for
 transparency even where attribution is not required by CC0.
 
 CC0 text and explanation: <https://creativecommons.org/publicdomain/zero/1.0/>.
+
+Oud and ney in `../library/microtonal/` use separate **CC BY 4.0** recordings by xserra. See [MICROTONAL.md](MICROTONAL.md) for attribution, source links and modifications.
