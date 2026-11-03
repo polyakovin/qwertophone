@@ -7,7 +7,15 @@ class GuitarCaptureProcessor extends AudioWorkletProcessor {
     this.samples = new Float32Array(4096);
     this.length = 0;
     this.started = false;
+    this.listening = false;
+    this.liveSamples = new Float32Array(1024);
+    this.liveLength = 0;
     this.port.onmessage = ({ data }) => {
+      if (typeof data.listening === 'boolean') {
+        this.listening = data.listening;
+        this.liveLength = 0;
+        return;
+      }
       if (data.recording) {
         this.recording = true;
         this.length = 0;
@@ -29,7 +37,22 @@ class GuitarCaptureProcessor extends AudioWorkletProcessor {
 
   process(inputs) {
     const input = inputs[0]?.[0];
-    if (!this.recording || !input) return true;
+    if (!input) return true;
+    if (this.listening) {
+      for (let i = 0; i < input.length; i++) {
+        if (!this.liveLength) this.liveFrame = currentFrame + i;
+        this.liveSamples[this.liveLength++] = input[i];
+        if (this.liveLength === this.liveSamples.length) {
+          const samples = this.liveSamples.slice();
+          this.port.postMessage(
+            { type: 'live-samples', samples, frame: this.liveFrame },
+            [samples.buffer],
+          );
+          this.liveLength = 0;
+        }
+      }
+    }
+    if (!this.recording) return true;
     if (!this.started) {
       this.started = true;
       this.port.postMessage({ type: 'start', frame: currentFrame });
