@@ -1768,6 +1768,30 @@
           "bytes": 7012
         }
       ]
+    },
+    "hang": {
+      "kind": "archive",
+      "url": "https://github.com/freepats/hang-D-minor/releases/download/2022-03-30/Hang-D-minor-SFZ%2BWAV-20220330.7z",
+      "archive": "hang.7z",
+      "sha256": "484cf730b35b1b38a62ea3b08f875924f66b625f02a9d27c0c7cb47ec8aa5863",
+      "bytes": 24630463,
+      "version": "2022-03-30",
+      "page": "https://freepats.zenvoid.org/ChromaticPercussion/hang.html",
+      "license": "CC0-1.0",
+      "documents": [
+        {
+          "path": "Hang-D-minor SFZ+WAV-20220330/Hang-D-minor 20220330.sfz",
+          "sha256": "90412aa8ce47dd2370f6f93a0caeb8ca273fa3b2b4ca834cc949590a6fd27ab5"
+        },
+        {
+          "path": "Hang-D-minor SFZ+WAV-20220330/LICENSE.txt",
+          "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+        },
+        {
+          "path": "Hang-D-minor SFZ+WAV-20220330/README.txt",
+          "sha256": "a16b2943cc2e21aca4f835f6c694b026439fbaf445d32962c4a3d148247e87b8"
+        }
+      ]
     }
   },
   "banks": {
@@ -6799,6 +6823,65 @@
           "root": 88,
           "tune": -13.3,
           "sha256": "d7acef320dcc270eba81d4c96f4039e8bb905abe35abe34d9de4010148ccf0da"
+        }
+      ]
+    },
+    "hang": {
+      "source": "hang",
+      "regions": [
+        {
+          "path": "Hang-D-minor SFZ+WAV-20220330/samples/A3_01.wav",
+          "root": 57,
+          "tune": 0,
+          "sha256": "5ecc30586aec12b092b7b5d8693dafc774e6430fb9d7c152cb71623962011db0"
+        },
+        {
+          "path": "Hang-D-minor SFZ+WAV-20220330/samples/D4_01.wav",
+          "root": 62,
+          "tune": 0,
+          "sha256": "0b181061e61eb5273c7d95ec84f3963b9adc64724b678f2175e7eef598fffb00"
+        },
+        {
+          "path": "Hang-D-minor SFZ+WAV-20220330/samples/E4_01.wav",
+          "root": 64,
+          "tune": 0,
+          "sha256": "c95be9ba859fcd988ad5b5a15cf57e7bdb67e85d4ceb2848a4342a27771f64c9"
+        },
+        {
+          "path": "Hang-D-minor SFZ+WAV-20220330/samples/F4_01.wav",
+          "root": 65,
+          "tune": 0,
+          "sha256": "627843c7a7a83b7419f7b0d6c5ff6db7a9817b8a85611655a6e93b057d17287a"
+        },
+        {
+          "path": "Hang-D-minor SFZ+WAV-20220330/samples/G4_01.wav",
+          "root": 67,
+          "tune": 0,
+          "sha256": "172f5e2ec171222ee9258e752d905835fe03c5f94e2a1fec0190cb8957c2a96e"
+        },
+        {
+          "path": "Hang-D-minor SFZ+WAV-20220330/samples/A4_01.wav",
+          "root": 69,
+          "tune": 0,
+          "sha256": "84db6abe8d6cf150d57fb741b1306206d5cdf0e73838f831b0f95648adade772"
+        },
+        {
+          "path": "Hang-D-minor SFZ+WAV-20220330/samples/Bb4_01.wav",
+          "root": 70,
+          "tune": 0,
+          "sha256": "4bce39112316b394b47b206bdf8bbd74d006440555aaecee2b441f0d1ffffc7d"
+        },
+        {
+          "path": "Hang-D-minor SFZ+WAV-20220330/samples/C5_01.wav",
+          "root": 72,
+          "tune": 0,
+          "sha256": "730d422e0b05e2cedced02e1995d49e0316c6ee7f6885a7b793a2fb92aa2b46b"
+        },
+        {
+          "path": "Hang-D-minor SFZ+WAV-20220330/samples/D5_01.wav",
+          "root": 74,
+          "tune": 0,
+          "sha256": "1ac3c2841429e9b8357d466876718a9a2bf6ff7fc4b35540befeebc11be05cee"
         }
       ]
     }
@@ -13125,6 +13208,62 @@
           "inputRoot": 88,
           "tuneCents": -13.3,
           "sha256": "d7acef320dcc270eba81d4c96f4039e8bb905abe35abe34d9de4010148ccf0da"
+        }
+      ]
+    },
+    "hang": {
+      "bank": "hang",
+      "source": "hang",
+      "mode": "pitched",
+      "naturalRange": [
+        57,
+        74
+      ],
+      "slots": [
+        {
+          "midi": 57,
+          "input": "Hang-D-minor SFZ+WAV-20220330/samples/A3_01.wav",
+          "sha256": "5ecc30586aec12b092b7b5d8693dafc774e6430fb9d7c152cb71623962011db0"
+        },
+        {
+          "midi": 62,
+          "input": "Hang-D-minor SFZ+WAV-20220330/samples/D4_01.wav",
+          "sha256": "0b181061e61eb5273c7d95ec84f3963b9adc64724b678f2175e7eef598fffb00"
+        },
+        {
+          "midi": 64,
+          "input": "Hang-D-minor SFZ+WAV-20220330/samples/E4_01.wav",
+          "sha256": "c95be9ba859fcd988ad5b5a15cf57e7bdb67e85d4ceb2848a4342a27771f64c9"
+        },
+        {
+          "midi": 65,
+          "input": "Hang-D-minor SFZ+WAV-20220330/samples/F4_01.wav",
+          "sha256": "627843c7a7a83b7419f7b0d6c5ff6db7a9817b8a85611655a6e93b057d17287a"
+        },
+        {
+          "midi": 67,
+          "input": "Hang-D-minor SFZ+WAV-20220330/samples/G4_01.wav",
+          "sha256": "172f5e2ec171222ee9258e752d905835fe03c5f94e2a1fec0190cb8957c2a96e"
+        },
+        {
+          "midi": 69,
+          "input": "Hang-D-minor SFZ+WAV-20220330/samples/A4_01.wav",
+          "sha256": "84db6abe8d6cf150d57fb741b1306206d5cdf0e73838f831b0f95648adade772"
+        },
+        {
+          "midi": 70,
+          "input": "Hang-D-minor SFZ+WAV-20220330/samples/Bb4_01.wav",
+          "sha256": "4bce39112316b394b47b206bdf8bbd74d006440555aaecee2b441f0d1ffffc7d"
+        },
+        {
+          "midi": 72,
+          "input": "Hang-D-minor SFZ+WAV-20220330/samples/C5_01.wav",
+          "sha256": "730d422e0b05e2cedced02e1995d49e0316c6ee7f6885a7b793a2fb92aa2b46b"
+        },
+        {
+          "midi": 74,
+          "input": "Hang-D-minor SFZ+WAV-20220330/samples/D5_01.wav",
+          "sha256": "1ac3c2841429e9b8357d466876718a9a2bf6ff7fc4b35540befeebc11be05cee"
         }
       ]
     }
@@ -19464,6 +19603,53 @@
           4
         ]
       ]
+    },
+    {
+      "file": "hang.mp3",
+      "sha256": "5d1270d959dbe9d1367834efe027e7dab8aa551bb2fe6cd792951d9f667be7b0",
+      "bytes": 105335,
+      "instrument": "hang",
+      "filter": null,
+      "octaveLayer": false,
+      "durationSeconds": 22.0,
+      "layout": [
+        [
+          0.0,
+          2.0
+        ],
+        [
+          2.0,
+          2.5
+        ],
+        [
+          4.5,
+          3.0
+        ],
+        [
+          7.5,
+          3.0
+        ],
+        [
+          10.5,
+          2.25
+        ],
+        [
+          12.75,
+          2.5
+        ],
+        [
+          15.25,
+          2.0
+        ],
+        [
+          17.25,
+          2.25
+        ],
+        [
+          19.5,
+          2.5
+        ]
+      ]
     }
   ],
   "profiles": {
@@ -19815,6 +20001,11 @@
       "instrument": "mandolin",
       "file": "mandolin",
       "release": 0.18
+    },
+    "hang": {
+      "instrument": "hang",
+      "file": "hang",
+      "release": 8
     }
   },
   "drumPositions": [
@@ -19866,7 +20057,7 @@
     80,
     81
   ],
-  "runtimeMapSha256": "5a2a0ebd0a4676425703f9bd57ec2806917b89953ed6f0d22c5f39b3ff460f73",
+  "runtimeMapSha256": "44bd29600d0e81b873a3372f6bc261c0050b9542d759eec91eec8d495d6c6633",
   "tools": {
     "ffmpeg": "ffmpeg version 8.1.2 Copyright (c) 2000-2026 the FFmpeg developers",
     "numpy": "2.2.6"

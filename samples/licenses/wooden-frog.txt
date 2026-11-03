@@ -1,0 +1,15 @@
+Wooden Frog Guiro
+Recorded by Skybonator, published May 29, 2024.
+Source: https://freesound.org/people/Skybonator/sounds/737762/
+License: Creative Commons CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+The author describes a hollow wooden frog with notches, scraped with a stick,
+recorded with a TASCAM DX-05X and TAKSTAR external condenser microphone.
+
+Qwertophone uses the publicly available HQ MP3 preview as its source, rather
+than the original stereo WAV. The first isolated scrape is extracted, mixed
+to mono, trimmed, normalized and faded without transposition or looping.
+The source URL, SHA-256 and processing parameters are fixed in
+scripts/audio/one-shots.sources.json; the delivered file's checksum and frame
+count are in public/samples/library/one-shots/manifest.json.

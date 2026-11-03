@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sources": {
+    "wooden-frog": {
+      "title": "Wooden Frog Guiro",
+      "author": "Skybonator",
+      "page": "https://freesound.org/people/Skybonator/sounds/737762/",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "url": "https://cdn.freesound.org/previews/737/737762_14566981-hq.mp3",
+      "sha256": "6f21d5fb89c7fd50896e6220f2e4a76f64e19628ae74b855d2218d2547603a2b",
+      "start": 2,
+      "end": 2.6,
+      "trimThreshold": 0.002,
+      "attackPaddingSeconds": 0.005,
+      "tailPaddingSeconds": 0.03,
+      "peak": 0.8
+    }
+  },
+  "sampleRate": 44100,
+  "preparation": "HQ MP3 preview; first isolated scrape; mono; silence trim with 5 ms attack and 30 ms tail padding; peak 0.8; 1 ms attack and 10 ms tail fades; no pitch change or loop.",
+  "outputs": {
+    "wooden-frog": {
+      "sha256": "cc28003ddbbd87d1231795ab81ac4db8c9f49aa246384dc8670ddaa3bb569ab0",
+      "frames": 21552,
+      "bytes": 5933
+    }
+  }
+}

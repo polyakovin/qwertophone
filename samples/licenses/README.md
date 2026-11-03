@@ -8,7 +8,7 @@ the application code, third-party software or generated instrument artwork.
 - FreePats: `piano.txt`, `guitar.txt`, `electric-guitar.txt`, `finger-bass.txt`,
   `fm-piano.txt`, `accordion.txt`, `organ.txt`, `ukulele.txt`, `ocarina.txt`,
   `square.txt`, `synth-bass.txt`, `lead.txt`, `warm-pad.txt`, `choir-pad.txt`,
-  `bagpipe.txt`, `jaw-harp.txt`, `world-percussion.txt`.
+  `bagpipe.txt`, `jaw-harp.txt`, `world-percussion.txt`, `hang.txt`.
 - Versilian Studios Community Sample Library: `VCSL.txt`.
 - Versilian Studios Chamber Orchestra 2 Community Edition: `VSCO-2-CE.txt`.
 - Meta Open Sound Steel Guitar: `steel-guitar.txt`.
@@ -24,3 +24,7 @@ transparency even where attribution is not required by CC0.
 CC0 text and explanation: <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 Oud and ney in `../library/microtonal/` use separate **CC BY 4.0** recordings by xserra. See [MICROTONAL.md](MICROTONAL.md) for attribution, source links and modifications.
+
+The wooden frog in `../library/one-shots/` uses Skybonator's **CC0** recording.
+See `wooden-frog.txt` and `../library/one-shots/manifest.json` for its source,
+preparation and checksum.
