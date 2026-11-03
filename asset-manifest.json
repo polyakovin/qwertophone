@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/qwertophone/static/css/main.a771506c.css",
-    "main.js": "/qwertophone/static/js/main.da36f3ac.js",
+    "main.js": "/qwertophone/static/js/main.adfe1797.js",
     "static/js/106.ecda4727.chunk.js": "/qwertophone/static/js/106.ecda4727.chunk.js",
     "static/js/229.cdf43891.chunk.js": "/qwertophone/static/js/229.cdf43891.chunk.js",
     "static/js/56.f98d606f.chunk.js": "/qwertophone/static/js/56.f98d606f.chunk.js",
@@ -13,18 +13,18 @@
     "static/js/843.33c6f4eb.chunk.js": "/qwertophone/static/js/843.33c6f4eb.chunk.js",
     "static/js/350.c09096c6.chunk.js": "/qwertophone/static/js/350.c09096c6.chunk.js",
     "static/js/787.ae82dfeb.chunk.js": "/qwertophone/static/js/787.ae82dfeb.chunk.js",
-    "static/js/622.21cd736a.chunk.js": "/qwertophone/static/js/622.21cd736a.chunk.js",
-    "static/js/239.f1fb4a63.chunk.js": "/qwertophone/static/js/239.f1fb4a63.chunk.js",
+    "static/js/622.519fe80f.chunk.js": "/qwertophone/static/js/622.519fe80f.chunk.js",
+    "static/js/239.e0a867eb.chunk.js": "/qwertophone/static/js/239.e0a867eb.chunk.js",
     "static/js/736.e758401b.chunk.js": "/qwertophone/static/js/736.e758401b.chunk.js",
     "static/js/704.485e9b3f.chunk.js": "/qwertophone/static/js/704.485e9b3f.chunk.js",
     "static/js/493.7e9e11ac.chunk.js": "/qwertophone/static/js/493.7e9e11ac.chunk.js",
     "static/js/726.5b561229.chunk.js": "/qwertophone/static/js/726.5b561229.chunk.js",
-    "static/js/398.f0674905.chunk.js": "/qwertophone/static/js/398.f0674905.chunk.js",
+    "static/js/398.5652deb8.chunk.js": "/qwertophone/static/js/398.5652deb8.chunk.js",
     "static/js/340.63ddc5e9.chunk.js": "/qwertophone/static/js/340.63ddc5e9.chunk.js",
     "static/js/530.4c7e0599.chunk.js": "/qwertophone/static/js/530.4c7e0599.chunk.js",
     "index.html": "/qwertophone/index.html",
     "main.a771506c.css.map": "/qwertophone/static/css/main.a771506c.css.map",
-    "main.da36f3ac.js.map": "/qwertophone/static/js/main.da36f3ac.js.map",
+    "main.adfe1797.js.map": "/qwertophone/static/js/main.adfe1797.js.map",
     "106.ecda4727.chunk.js.map": "/qwertophone/static/js/106.ecda4727.chunk.js.map",
     "229.cdf43891.chunk.js.map": "/qwertophone/static/js/229.cdf43891.chunk.js.map",
     "56.f98d606f.chunk.js.map": "/qwertophone/static/js/56.f98d606f.chunk.js.map",
@@ -35,18 +35,18 @@
     "843.33c6f4eb.chunk.js.map": "/qwertophone/static/js/843.33c6f4eb.chunk.js.map",
     "350.c09096c6.chunk.js.map": "/qwertophone/static/js/350.c09096c6.chunk.js.map",
     "787.ae82dfeb.chunk.js.map": "/qwertophone/static/js/787.ae82dfeb.chunk.js.map",
-    "622.21cd736a.chunk.js.map": "/qwertophone/static/js/622.21cd736a.chunk.js.map",
-    "239.f1fb4a63.chunk.js.map": "/qwertophone/static/js/239.f1fb4a63.chunk.js.map",
+    "622.519fe80f.chunk.js.map": "/qwertophone/static/js/622.519fe80f.chunk.js.map",
+    "239.e0a867eb.chunk.js.map": "/qwertophone/static/js/239.e0a867eb.chunk.js.map",
     "736.e758401b.chunk.js.map": "/qwertophone/static/js/736.e758401b.chunk.js.map",
     "704.485e9b3f.chunk.js.map": "/qwertophone/static/js/704.485e9b3f.chunk.js.map",
     "493.7e9e11ac.chunk.js.map": "/qwertophone/static/js/493.7e9e11ac.chunk.js.map",
     "726.5b561229.chunk.js.map": "/qwertophone/static/js/726.5b561229.chunk.js.map",
-    "398.f0674905.chunk.js.map": "/qwertophone/static/js/398.f0674905.chunk.js.map",
+    "398.5652deb8.chunk.js.map": "/qwertophone/static/js/398.5652deb8.chunk.js.map",
     "340.63ddc5e9.chunk.js.map": "/qwertophone/static/js/340.63ddc5e9.chunk.js.map",
     "530.4c7e0599.chunk.js.map": "/qwertophone/static/js/530.4c7e0599.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a771506c.css",
-    "static/js/main.da36f3ac.js"
+    "static/js/main.adfe1797.js"
   ]
 }
