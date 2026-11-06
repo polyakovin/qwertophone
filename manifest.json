@@ -1,7 +1,8 @@
 {
-  "short_name": "Qwertophone",
-  "name": "Qwertophone",
-  "description": "Клавиатура компьютера как удобный музыкальный инструмент для живой игры, импровизации и записи мелодий.",
+  "short_name": "Melody Generator",
+  "name": "Melody Generator",
+  "description": "Your computer keyboard as a musical instrument for live playing, improvisation and recording melodies.",
+  "lang": "en",
   "icons": [
     {
       "src": "brand/logo-light-64.webp",
