@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Melody Generator</title>
+    <script>
+      // Load the app at the root and let index.html restore the requested URL.
+      if (window.location.pathname !== '/') {
+        const { href, origin } = window.location;
+        window.location.replace('/#' + href.slice(origin.length));
+      }
+    </script>
+  </head>
+  <body>
+    <p><a href="/">Open Melody Generator</a></p>
+  </body>
+</html>
