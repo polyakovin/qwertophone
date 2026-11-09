@@ -1,0 +1,8 @@
+Strings of balalaika souvenir by idabrandao (2017).
+Source: https://freesound.org/people/idabrandao/sounds/382985/
+License: CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/).
+
+Melody Generator uses two short plucks from the high-quality MP3 preview.
+The clips are mixed to mono, trimmed, faded, retuned, and mapped to the
+keyboard. Source checksums, clip boundaries, and tuning corrections are
+recorded in the sample manifest.

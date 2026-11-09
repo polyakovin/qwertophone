@@ -1792,6 +1792,19 @@
           "sha256": "a16b2943cc2e21aca4f835f6c694b026439fbaf445d32962c4a3d148247e87b8"
         }
       ]
+    },
+    "freesound-balalaika": {
+      "kind": "files",
+      "url": "https://cdn.freesound.org/previews/382/",
+      "license": "CC0-1.0",
+      "page": "https://freesound.org/people/idabrandao/sounds/382985/",
+      "files": [
+        {
+          "path": "382985_7105158-hq.mp3",
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d",
+          "bytes": 146264
+        }
+      ]
     }
   },
   "banks": {
@@ -6882,6 +6895,31 @@
           "root": 74,
           "tune": 0,
           "sha256": "1ac3c2841429e9b8357d466876718a9a2bf6ff7fc4b35540befeebc11be05cee"
+        }
+      ]
+    },
+    "balalaika": {
+      "source": "freesound-balalaika",
+      "regions": [
+        {
+          "path": "382985_7105158-hq.mp3",
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d",
+          "root": 70,
+          "tune": -5,
+          "clipSeconds": [
+            0.565,
+            0.785
+          ]
+        },
+        {
+          "path": "382985_7105158-hq.mp3",
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d",
+          "root": 79,
+          "tune": -3,
+          "clipSeconds": [
+            2.62,
+            2.8
+          ]
         }
       ]
     }
@@ -13266,6 +13304,163 @@
           "sha256": "1ac3c2841429e9b8357d466876718a9a2bf6ff7fc4b35540befeebc11be05cee"
         }
       ]
+    },
+    "balalaika": {
+      "bank": "balalaika",
+      "source": "freesound-balalaika",
+      "naturalRange": [
+        70,
+        79
+      ],
+      "slots": [
+        {
+          "midi": 24,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 70,
+          "tuneCents": -5,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 28,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 70,
+          "tuneCents": -5,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 32,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 70,
+          "tuneCents": -5,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 36,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 70,
+          "tuneCents": -5,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 40,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 70,
+          "tuneCents": -5,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 44,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 70,
+          "tuneCents": -5,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 48,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 70,
+          "tuneCents": -5,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 52,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 70,
+          "tuneCents": -5,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 56,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 70,
+          "tuneCents": -5,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 60,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 70,
+          "tuneCents": -5,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 64,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 70,
+          "tuneCents": -5,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 68,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 70,
+          "tuneCents": -5,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 72,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 70,
+          "tuneCents": -5,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 76,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 79,
+          "tuneCents": -3,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 80,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 79,
+          "tuneCents": -3,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 84,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 79,
+          "tuneCents": -3,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 88,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 79,
+          "tuneCents": -3,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 92,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 79,
+          "tuneCents": -3,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 96,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 79,
+          "tuneCents": -3,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 100,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 79,
+          "tuneCents": -3,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        },
+        {
+          "midi": 104,
+          "input": "382985_7105158-hq.mp3",
+          "inputRoot": 79,
+          "tuneCents": -3,
+          "sha256": "f2b8d58c572a75892403e4f6d0a6f6b171efa460c28d242e1c294b7737ffb14d"
+        }
+      ]
     }
   },
   "outputs": [
@@ -19605,6 +19800,101 @@
       ]
     },
     {
+      "file": "balalaika.mp3",
+      "sha256": "5b4a5412b3a898287dacd272bce26650db456787484450cc716cffff1aae866a",
+      "bytes": 363970,
+      "instrument": "balalaika",
+      "filter": null,
+      "octaveLayer": false,
+      "durationSeconds": 84.0,
+      "layout": [
+        [
+          0,
+          4
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          8,
+          4
+        ],
+        [
+          12,
+          4
+        ],
+        [
+          16,
+          4
+        ],
+        [
+          20,
+          4
+        ],
+        [
+          24,
+          4
+        ],
+        [
+          28,
+          4
+        ],
+        [
+          32,
+          4
+        ],
+        [
+          36,
+          4
+        ],
+        [
+          40,
+          4
+        ],
+        [
+          44,
+          4
+        ],
+        [
+          48,
+          4
+        ],
+        [
+          52,
+          4
+        ],
+        [
+          56,
+          4
+        ],
+        [
+          60,
+          4
+        ],
+        [
+          64,
+          4
+        ],
+        [
+          68,
+          4
+        ],
+        [
+          72,
+          4
+        ],
+        [
+          76,
+          4
+        ],
+        [
+          80,
+          4
+        ]
+      ]
+    },
+    {
       "file": "hang.mp3",
       "sha256": "5d1270d959dbe9d1367834efe027e7dab8aa551bb2fe6cd792951d9f667be7b0",
       "bytes": 105335,
@@ -20006,6 +20296,11 @@
       "instrument": "hang",
       "file": "hang",
       "release": 8
+    },
+    "balalaika": {
+      "instrument": "balalaika",
+      "file": "balalaika",
+      "release": 0.15
     }
   },
   "drumPositions": [
@@ -20057,7 +20352,7 @@
     80,
     81
   ],
-  "runtimeMapSha256": "44bd29600d0e81b873a3372f6bc261c0050b9542d759eec91eec8d495d6c6633",
+  "runtimeMapSha256": "599ac69c973b70497fd8c681e57774a20921be8fa05a5d08c1b9b888b98ef38d",
   "tools": {
     "ffmpeg": "ffmpeg version 8.1.2 Copyright (c) 2000-2026 the FFmpeg developers",
     "numpy": "2.2.6"

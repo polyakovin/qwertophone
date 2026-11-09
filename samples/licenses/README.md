@@ -13,6 +13,7 @@ the application code, third-party software or generated instrument artwork.
 - Versilian Studios Chamber Orchestra 2 Community Edition: `VSCO-2-CE.txt`.
 - Meta Open Sound Steel Guitar: `steel-guitar.txt`.
 - Ganjo, SX six-string guitar banjo by itsclipping: `ganjo.txt`.
+- Miniature balalaika recorded by idabrandao: `balalaika.txt`.
 - Mandolin recorded by 0x4D44 (ferrosintesis): `mandolin.txt`.
 
 `electronic-drums.txt` documents an investigated CC0 bank retained in the source
